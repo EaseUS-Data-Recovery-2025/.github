@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-340K+-6ab04c)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-Sep_2025-3498db)
 
-![EaseUS Banner](https://images.kinguin.net/g/carousel-main-mobile/media/images/products/_easeusdatawizard1.jpg)  
+![EaseUS Banner](https://i.ytimg.com/vi/7gaCB0qt4II/maxresdefault.jpg)  
 *(EaseUS Data Recovery interface preview with recovery dashboard)*  
 
 **Welcome**: The **EaseUS Data Recovery 2025** pack helps Windows users restore deleted files, lost partitions, and data from formatted drives.  
